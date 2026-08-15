@@ -412,4 +412,4 @@ Le projet est prêt pour la prochaine étape du parcours Terraform.
 
 Mouhamadou Moustapha THIAM
 
-Master 2 RETEL — Réseaux, Télécommunications & Sécurité
+Master 2 RETEL — Réseaux, Télécommunications
