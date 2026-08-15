@@ -21,3 +21,10 @@ variable "env" {
 variable "projet" {
   type = string
 }
+
+variable "prop" {
+  type = string
+}
+variable "lab" {
+  type = string
+}
