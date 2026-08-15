@@ -1,4 +1,4 @@
-# 🚀 TP08 — Terraform & Git Workflow
+ 🚀 TP08 — Terraform & Git Workflow
 
 ![Terraform](https://img.shields.io/badge/Terraform-1.x-7B42BC?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonaws&logoColor=white)
