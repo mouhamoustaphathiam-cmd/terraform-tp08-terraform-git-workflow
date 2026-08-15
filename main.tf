@@ -36,8 +36,7 @@ resource "aws_instance" "EC2" {
     Name    = var.nom_instance
     Env     = var.env
     Project = var.projet
-    owners  = var.prop
-    Lab     = var.lab
+   
   }
 
 }
